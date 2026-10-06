@@ -1,0 +1,21 @@
+﻿complaint,category,priority
+Water is not available in bathroom,Maintenance,High
+Bathroom tap is leaking,Maintenance,Medium
+No water in hostel,Maintenance,High
+Fan is not working,Electrical,Medium
+Tube light is not working,Electrical,Low
+Power problem in room,Electrical,High
+Food quality is very poor,Food,High
+Food is cold every day,Food,Medium
+Mess food is not good,Food,Medium
+WiFi is not working,Internet,High
+Internet connection is slow,Internet,Medium
+Hostel WiFi problem,Internet,High
+Room is dirty,Cleanliness,Medium
+Bathroom is not clean,Cleanliness,Medium
+Garbage is not collected,Cleanliness,High
+Room door lock is broken,Security,High
+Someone entered my room,Security,High
+Lost my hostel key,Security,Medium
+AC is not working,Maintenance,Medium
+Water leakage in room,Maintenance,High
